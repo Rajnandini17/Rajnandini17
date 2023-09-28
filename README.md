@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Rajnandini.
-- 📚 I'm a third year CSE undergrad.
+- 📚 I'm a final-year CSE undergrad.
 - 👀 I’m keenly interested in Data Science and Artificial Intelligence.
-- 🌱 I’m currently learning data analytics.
+- 🌱 I’m currently learning React.
 - 💞️ I love reading and painting. 
 - 📧 Reach out to me - rajnandinis1702@gmail.com
 
