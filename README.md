@@ -10,8 +10,7 @@
 - 👯 I’m looking to collaborate on **Web development & Machine Learning**
 
 - 📫 How to reach me **rajnandinis1702@gmail.com**
-
-- ⚡ Fun fact **you'll find me in a library in my free time :)**
+  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
